@@ -1,0 +1,6 @@
+@WebApplicationOSB_HostAddress = http://localhost:5295
+
+GET {{WebApplicationOSB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

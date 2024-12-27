@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "WebApplicationOSB.Controllers.GetAboneBilgi_Controller",
+    "Method": "GetAboneBilgi",
+    "RelativePath": "api/GetAboneBilgi_",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "kurumVKN",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GetAboneEkstreController",
+    "Method": "GetAboneEkstre",
+    "RelativePath": "api/GetAboneEkstre/GetAboneEkstre",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "KurumKodu",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "VergiDairesiHesapNo",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FaturaTarihi",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
