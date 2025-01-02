@@ -1,5 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebApplicationOSB.Models;
+using System;
+using System.Linq;
+using System.Threading.Tasks;
 
 [Route("api/[controller]")]
 [ApiController]
@@ -10,11 +13,14 @@ public class GetAboneEkstreController : ControllerBase
     public GetAboneEkstreController(FaturaService faturaService)
     {
         _faturaService = faturaService;
-    }
+    } 
 
     [HttpGet]
     [Route("GetAboneEkstre")]
-    public async Task<IActionResult> GetAboneEkstre([FromQuery] string KurumKodu, [FromQuery] string VergiDairesiHesapNo, [FromQuery] string FaturaTarihi)
+    public async Task<IActionResult> GetAboneEkstre(
+        [FromQuery] string KurumKodu, 
+        [FromQuery] string VergiDairesiHesapNo, 
+        [FromQuery] string FaturaTarihi)
     {
         Console.WriteLine($"Gelen Parametreler - KurumKodu: {KurumKodu}, VKN: {VergiDairesiHesapNo}, FaturaTarihi: {FaturaTarihi}");
 
@@ -29,9 +35,8 @@ public class GetAboneEkstreController : ControllerBase
             Console.WriteLine($"Tarih Parse Hatası: {ex.Message}");
             return BadRequest("FaturaTarihi geçerli bir tarih formatında olmalıdır (MM-yyyy).");
         }
- 
 
-        // Fetch invoices for the given date and institution code
+        // Fetch invoices based on the selected FaturaTipi
         var faturalar = _faturaService.GetFaturalar(faturaBaslangicTarihi, KurumKodu, VergiDairesiHesapNo);
 
         var response = new GetAboneEkstreResponse

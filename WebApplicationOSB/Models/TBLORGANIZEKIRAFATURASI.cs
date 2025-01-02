@@ -2,18 +2,16 @@
 
 namespace WebApplicationOSB.Models
 {
-    public class TBLORGANIZESAYACOKUMASU
+    public class TBLORGANIZEKIRAFATURASI
     {
         [Key]
         public int KURUMID { get; set; }
-        public int OdemeTakipFaturaTipi = 1;
         public decimal? AKTARIMFATURATUTARI { get; set; }
         public decimal? ODENENTUTAR { get; set; }
         public DateTime? OKUMATARIHI { get; set; }
         public string? DONEMI { get; set; }
         public string? FATURANO { get; set; }
         public DateTime? FATURATARIHI { get; set; }
-        public decimal DevredenAlacakTutar { get; set; }
 
         public string GetFormattedOkumaTarihi()
         {
@@ -25,4 +23,6 @@ namespace WebApplicationOSB.Models
             return FATURATARIHI.HasValue ? FATURATARIHI.Value.ToString("dd/MM/yyyy") : null;
         }
     }
-}
+}   
+
+

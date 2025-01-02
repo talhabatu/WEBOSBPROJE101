@@ -5266,11 +5266,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BOR\\source\\repos\\WebApplicationOSB\\WebApplicationOSB\\WebApplicationOSB.csproj",
+      "projectUniqueName": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\WebApplicationOSB.csproj",
       "projectName": "WebApplicationOSB",
-      "projectPath": "C:\\Users\\BOR\\source\\repos\\WebApplicationOSB\\WebApplicationOSB\\WebApplicationOSB.csproj",
+      "projectPath": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\WebApplicationOSB.csproj",
       "packagesPath": "C:\\Users\\BOR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BOR\\source\\repos\\WebApplicationOSB\\WebApplicationOSB\\obj\\",
+      "outputPath": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BOR\\AppData\\Roaming\\NuGet\\NuGet.Config",

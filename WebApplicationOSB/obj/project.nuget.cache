@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5YD4A8/DdtA=",
+  "dgSpecHash": "r2Y+rGLbd9w=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BOR\\source\\repos\\WebApplicationOSB\\WebApplicationOSB\\WebApplicationOSB.csproj",
+  "projectFilePath": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\WebApplicationOSB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BOR\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\BOR\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

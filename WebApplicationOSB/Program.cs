@@ -13,6 +13,8 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 builder.Services.AddScoped<GetAboneBilgi>();
 builder.Services.AddScoped<FaturaService>();
 
+
+
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();

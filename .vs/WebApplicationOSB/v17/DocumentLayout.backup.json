@@ -1,0 +1,300 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\services\\getaboneekstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\services\\getaboneekstre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\models\\devredenveri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\models\\devredenveri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\models\\tblorganizekirafaturasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\models\\tblorganizekirafaturasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\models\\tblorganizesayacokumaelektrik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\models\\tblorganizesayacokumaelektrik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\models\\tblorganizesayacokumadogalgaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\models\\tblorganizesayacokumadogalgaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\services\\faturaresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\services\\faturaresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\models\\tblorganizeodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\models\\tblorganizeodemeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\models\\tblorganizesayacokumasu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\models\\tblorganizesayacokumasu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\controllers\\getaboneekstre_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\controllers\\getaboneekstre_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\services\\faturaresultcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\services\\faturaresultcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\controllers\\getfaturabilgi_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\controllers\\getfaturabilgi_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\services\\getfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\services\\getfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\models\\tblfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\models\\tblfatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\services\\getabonebilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\services\\getabonebilgi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|c:\\users\\bor\\source\\repos\\webosbproje101\\webapplicationosb\\controllers\\getabonebilgi_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C117B96F-4BE6-476F-82E2-652CFE481B2B}|WebApplicationOSB\\WebApplicationOSB.csproj|solutionrelative:webapplicationosb\\controllers\\getabonebilgi_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAboneEkstre.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\GetAboneEkstre.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Services\\GetAboneEkstre.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\GetAboneEkstre.cs*",
+              "RelativeToolTip": "WebApplicationOSB\\Services\\GetAboneEkstre.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:30:07.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DevredenVeri.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\DevredenVeri.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Models\\DevredenVeri.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\DevredenVeri.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Models\\DevredenVeri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T06:52:54.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TBLORGANIZESAYACOKUMADOGALGAZ.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMADOGALGAZ.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMADOGALGAZ.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMADOGALGAZ.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMADOGALGAZ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:38:22.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TBLORGANIZESAYACOKUMAELEKTRIK.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMAELEKTRIK.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMAELEKTRIK.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMAELEKTRIK.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMAELEKTRIK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:16:31.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TBLORGANIZEKIRAFATURASI.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZEKIRAFATURASI.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Models\\TBLORGANIZEKIRAFATURASI.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZEKIRAFATURASI.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Models\\TBLORGANIZEKIRAFATURASI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:15:00.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\AppDbContext.cs*",
+              "RelativeToolTip": "WebApplicationOSB\\Models\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:13:16.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TBLORGANIZEODEMELER.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZEODEMELER.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Models\\TBLORGANIZEODEMELER.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZEODEMELER.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Models\\TBLORGANIZEODEMELER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:38:19.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FaturaResult.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\FaturaResult.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Services\\FaturaResult.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\FaturaResult.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Services\\FaturaResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:41:23.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TBLORGANIZESAYACOKUMASU.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMASU.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMASU.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMASU.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Models\\TBLORGANIZESAYACOKUMASU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:16:32.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAboneEkstre_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Controllers\\GetAboneEkstre_Controller.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Controllers\\GetAboneEkstre_Controller.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Controllers\\GetAboneEkstre_Controller.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Controllers\\GetAboneEkstre_Controller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:30:02.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FaturaResultComparer.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\FaturaResultComparer.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Services\\FaturaResultComparer.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\FaturaResultComparer.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Services\\FaturaResultComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:08:07.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Program.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Program.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:10:53.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetFaturaBilgi_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Controllers\\GetFaturaBilgi_Controller.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Controllers\\GetFaturaBilgi_Controller.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Controllers\\GetFaturaBilgi_Controller.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Controllers\\GetFaturaBilgi_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:06:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetFatura.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\GetFatura.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Services\\GetFatura.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\GetFatura.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Services\\GetFatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:07:41.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TblFatura.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TblFatura.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Models\\TblFatura.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Models\\TblFatura.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Models\\TblFatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:41:20.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAboneBilgi.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\GetAboneBilgi.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Services\\GetAboneBilgi.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Services\\GetAboneBilgi.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Services\\GetAboneBilgi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:30:55.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetAboneBilgi_Controller.cs",
+              "DocumentMoniker": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Controllers\\GetAboneBilgi_Controller.cs",
+              "RelativeDocumentMoniker": "WebApplicationOSB\\Controllers\\GetAboneBilgi_Controller.cs",
+              "ToolTip": "C:\\Users\\BOR\\source\\repos\\WEBOSBPROJE101\\WebApplicationOSB\\Controllers\\GetAboneBilgi_Controller.cs",
+              "RelativeToolTip": "WebApplicationOSB\\Controllers\\GetAboneBilgi_Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:29:59.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
